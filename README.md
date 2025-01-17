@@ -3,7 +3,14 @@
 
 [部分功能讲解部分](https://tieba.baidu.com/p/9082934660?pid=150557747552&cid=0#150557747552)
 
+教育管理界面是借用的github另一个老哥的（实在找不到网址了非常抱歉就没贴，别的都是自己写的了）
 这是一个包含初音 MMD 模型的教育管理系统，项目包括智能聊天机器人、桌面宠物、小说阅读器以及爬虫页面等多个功能模块。
+初音MMD模型具有9个动作
+![屏幕截图 2024-07-15 091600](https://github.com/user-attachments/assets/fc18c3f8-b4b6-4b82-90dc-e7ed79a94495)
+小说阅读器
+![屏幕截图 2024-07-15 091934](https://github.com/user-attachments/assets/18380535-cb78-4733-9b77-87b9b9862cc2)
+聊天机器人
+![屏幕截图 2024-07-15 091858](https://github.com/user-attachments/assets/a0bd126a-e188-417a-8c06-92213656499e)
 
 ## 项目日志
 
