@@ -1,4 +1,4 @@
-# 教育管理系统 - 初音 MMD 模型
+# QT教育管理系统 - 初音 MMD 模型
 [项目介绍视频](https://github.com/null-goudan/like_qq_login)
 
 [部分功能讲解部分](https://tieba.baidu.com/p/9082934660?pid=150557747552&cid=0#150557747552)
